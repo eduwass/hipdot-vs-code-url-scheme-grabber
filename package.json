@@ -58,6 +58,11 @@
           "type": "boolean",
           "default": false,
           "description": "Format the link so that it opens in VSCode Insiders instead of VSCode"
+        },
+        "hipdotUrlSchemeGrabber.useCursor": {
+          "type": "boolean",
+          "default": false,
+          "description": "Format the link so that it opens in Cursor instead of VSCode"
         }
       }
     }
